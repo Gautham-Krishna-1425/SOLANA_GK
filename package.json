@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gautham-Krishna-1425/SOLANA_GK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gautham-Krishna-1425/SOLANA_GK/issues"
+  },
+  "homepage": "https://github.com/Gautham-Krishna-1425/SOLANA_GK#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.70.1"
+  }
+}
